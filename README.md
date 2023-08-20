@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AryanTrivedi865
+- 😎 I'm at intermediate level in Java and Python
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to find some who can design for me
 - 📫 How to reach me IG @aryan_.__
